@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internationalartschool/static/css/main.4d53bba1.css",
+    "main.js": "/internationalartschool/static/js/main.6b30e2c6.js",
+    "index.html": "/internationalartschool/index.html",
+    "main.4d53bba1.css.map": "/internationalartschool/static/css/main.4d53bba1.css.map",
+    "main.6b30e2c6.js.map": "/internationalartschool/static/js/main.6b30e2c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d53bba1.css",
+    "static/js/main.6b30e2c6.js"
+  ]
+}
